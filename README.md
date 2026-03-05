@@ -53,4 +53,3 @@ API RESTful profesional para la gestión de una barbería con sistema de reserva
 | **Flask-CORS** | 4.0+ | Habilitar CORS para frontend |
 | **Python-dotenv** | 1.0+ | Gestión de variables de entorno |
 
-## 📁 Estructura del Proyecto (MVC)
